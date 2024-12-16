@@ -1,4 +1,4 @@
-### Graph neural networks for molecular property prediction
+## Graph neural networks for molecular property prediction
 
 * Source
   - github.com/seongokryu/LAIDD_GNN
